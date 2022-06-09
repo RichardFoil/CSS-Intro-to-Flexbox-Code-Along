@@ -1,3 +1,14 @@
 nav {
   display: none;
 }
+.container{
+  display: flex;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+section{
+  display: flex;
+  justify-content: space-between;
+}
